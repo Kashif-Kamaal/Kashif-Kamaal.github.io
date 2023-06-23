@@ -86,16 +86,16 @@ html {
   border-radius: 10px 10px 0 0; }
 
 .avatar {
-  max-width: 216px;
+  max-width: 180px;
   max-height: 216px;
   margin-top: 20px;
   text-align: center;
   margin-left: auto;
   margin-right: auto; }
 
-.avatar img {
+/* .avatar img {
   /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%); }
+  /* filter: grayscale(100%); } */ 
 
 footer a:not(.nav-link) {
   color: inherit;
